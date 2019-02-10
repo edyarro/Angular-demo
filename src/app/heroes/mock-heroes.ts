@@ -1,5 +1,5 @@
 import { Hero } from '../hero'
- export const Heroes : Hero [] = [
+ export const HEROES : Hero [] = [
     { 
         id: 1, name:"Billy"
     },
